@@ -1,13 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "YourBotUsername",
+    "username": "Youtube",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": "ytserverfazeclan.aternos.me
+",
+    "port": 21975,
     "version": "",
     "try-creative": false
   },
@@ -29,10 +30,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 600,
       "messages": [
-        "I'm a regular player",
-        "I like to play Minecraft!"
+        "Like and Sub",
+        "Subcribe!"
       ]
     },
     "chat-log": true,
